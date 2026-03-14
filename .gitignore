@@ -1,0 +1,7 @@
+.venv
+__pycache__
+model/checkpoints/
+data
+DeepFake_Detection.ipynb
+notebook.ipynb
+best_checkpoints_backups
